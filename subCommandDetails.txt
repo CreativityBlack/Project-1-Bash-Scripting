@@ -1,0 +1,23 @@
+1. ls -r
+  • r means display files in reverse order
+2. cd */Documents
+   • * means everything before Desktop file
+   • /Documents means the directory folder
+3. ps -e
+   • e means to Display every active process on a Linux system in generic (Unix/Linux) format
+4. vi .txt
+   • .txt creats a editing file with text format
+5. top -u
+   • u means will display specific User process details
+6. grep -w
+   • w means to Select only those lines containing matches that form whole words
+7.  ssh -agent
+    • agent means to hold private key for single sign-on
+8. scp -r
+   • r means copy directory from the local host to a remote host’s directory
+9. su -c
+   • c means to Specify a command that will be invoked by the shell executed command will have no controlling terminal
+10. sudo -v
+   • v means to print the version number and exit
+11. cat -n
+   • n means you could see the line numbers of a file
