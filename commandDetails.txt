@@ -1,0 +1,12 @@
+1.  ls is used to show directory contents, lists names of files.
+2.  cd is used to change directories.
+3.  ps is used to rovide information about the currently running processes, including their process identification numbers (PIDs).
+4.  vi is used to create a file and have the ability to edit it - AKA visual editor.
+5.  top is used in allowing users to monitor processes and system resource usage on Linux. 
+6.  grep is used to search given files for lines containing a match to a given pattern list.
+7.  ssh is used as a program for logging into a remote machine and for executing commands on a remote machine.
+8.  scp is used to securely copy files and directories between remote hosts without starting an FTP session or logging into the remote systems explicitly.
+9.  su is used by a computer user to execute commands with the privileges of another user account.
+10. sudo is used to allow users to run programs with the security privileges of another user (normally the superuser, or root).
+11. cat is used to create single or multiple files, view contain of file, concatenate files and redirect output in terminal or files.
+12. exit
